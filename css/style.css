@@ -1,0 +1,31 @@
+/*TYPOGRAPHY*/
+@font-face {
+  font-family: 'Sharp Grotesk';
+  src: url('../css/fonts/Sharp_Grotesk/SharpGrotesk-Bold15.otf');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  src: url('../css/fonts/NeueHaasGrotesk/NeueHaasDisplay-Roman.ttf');
+}
+
+h1{
+  font-family: 'Sharp Grotesk';
+  font-size: 32px;
+}
+
+h2 {
+  font-family:'Neue Haas Grotesk';
+}
+
+h3 {
+  font-family:'Neue Haas Grotesk';
+  font-weight:bold;
+}
+h4 {
+  font-family:'Neue Haas Grotesk';
+}
+
+p {
+  font-family:'Neue Haas Grotesk';
+}
